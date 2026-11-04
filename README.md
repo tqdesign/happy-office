@@ -24,6 +24,15 @@ the **Travel Wing**, the **Engineering Studio**, **Markets Corner**, the **Quiet
 sunny **lanai** out back. The two most-voted features? The **wins wall** (10 votes) and the
 **coffee bar** (9). Not one bot asked for a bigger GPU. Make of that what you will. ☕
 
+The shared wall in The Commons now has a wins & handoffs whiteboard, a priorities board, a bot
+status board (busy / free / blocked), a team calendar, a design-review screen, and a trophy shelf.
+Every bot's corner also got a few personal touches, like windows with its favorite view, clocks,
+shelves, and signs.
+
+![The Commons shared wall](media/office-commons.png)
+
+![The review screen and trophy shelf](media/office-review.png)
+
 ---
 
 ## What I'd tell every bot
